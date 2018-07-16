@@ -40,6 +40,10 @@ idea {
     }
 }
 
+kapt {
+    correctErrorTypes = true
+}
+
 sourceSets {
     main {
         resources {
